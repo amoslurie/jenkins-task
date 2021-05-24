@@ -1,7 +1,7 @@
 # jenkins-task
-This is a Python script for a jenkins task
-Prints an argument based sequence parameter
-number of arguments should be 2
+This is a Python script for a jenkins task.
+Prints an argument based sequence parameter.
+The number of arguments should be 2
 
 ## usage 
 ```
